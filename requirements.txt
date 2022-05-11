@@ -1,0 +1,7 @@
+﻿requests
+bs4
+beautifulsoup
+prettytable
+PySimpleGUI
+csv
+os
